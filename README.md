@@ -31,7 +31,7 @@ Available interactions are:
 ### Rossgart
 
 Protagonist for the [first quest](#Quests) of the main questline.
-Rossgart should be a losse settlement by the same species as Pizza Kawaii.
+Rossgart should be a loose settlement by the same species as Pizza Kawaii.
 
 Available interactions are:
 
